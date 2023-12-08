@@ -1,0 +1,48 @@
+Q3]
+1]
+abhishek@abhishek-Lenovo-Legion-Y540-15IRH-PG0:~/Desktop/COSSDOM$ grep is -c data.txt 
+3
+2]
+abhishek@abhishek-Lenovo-Legion-Y540-15IRH-PG0:~/Desktop/COSSDOM$ wc -w data.txt
+19 data.txt
+
+
+
+Q4]
+abhishek@abhishek-Lenovo-Legion-Y540-15IRH-PG0:~/Desktop/COSSDOM$ grep 'a' -v sample.txt|tac
+Hide
+First
+Dog
+Apple
+
+
+2]abhishek@abhishek-Lenovo-Legion-Y540-15IRH-PG0:~$ ls -i ~
+ 814646  apple
+ 431236  a.sh
+ 655474  cdac
+ 396647 'Chapter II. Modular programming in C++.pdf'
+ 418122  codeass4que3
+ 917522  CPP
+ 406651  CPP.zip
+ 656409  DACsept23
+1049564  DBT
+ 404954  DBT.zip
+ 393585  Desktop
+ 393589  Documents
+ 393586  Downloads
+ 918385  hackathon
+1180143  java
+ 411546  minikube-linux-amd64
+ 411541  minikubelinux-amd64
+ 420488  movies.bin
+ 393590  Music
+ 411501  newb.sh
+ 393591  Pictures
+ 393588  Public
+ 412157  sample.txt
+ 393578  snap
+ 431586  SQLAssignment6
+ 397759  SystemdAnalyzePlot.svg
+ 393587  Templates
+ 393592  Videos
+
